@@ -1,0 +1,57 @@
+.blue{
+
+
+    background-color: black;
+}
+.ligning{
+text-align: center;
+margin-bottom: 10px;
+}
+@media (min-width:992px)
+{
+    .boxmax{
+        width:28%;
+    }
+}
+@media   (max-width:991px){
+ .boxmedium{
+    width:40%;}
+ .boxexp{
+  width: 85%;
+  margin: 20px;
+
+ }
+
+   
+}
+@media(max-width:767px){
+.boxmin{
+     width: 85%;
+     margin:20px ;
+}
+
+}
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width:992px){
+
+
+
+
+}
